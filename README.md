@@ -1,7 +1,10 @@
 # TensorFlow Lite or TFlite for Edge Computing
 
 ## Click to open the Notebook directly in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhattbhavesh91/freecodecamp-tflite/blob/main/tflite-notebook.ipynb)
+<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhattbhavesh91/freecodecamp-tflite/blob/main/tflite-notebook.ipynb)
+ -->
+ 
+<a href="https://colab.research.google.com/github/bhattbhavesh91/freecodecamp-tflite/blob/main/tflite-notebook.ipynb" target="_blank"><img height="40" alt="Open in Colab" src = "https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 
 <a href="https://github.com/sponsors/bhattbhavesh91" target="_blank"><img height="40" alt="GitHub Sponsor" src = "https://img.shields.io/badge/Sponsor me on GitHub-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
